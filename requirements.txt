@@ -1,0 +1,4 @@
+kociemba
+numpy
+opencv-python
+tkinter
