@@ -23,8 +23,8 @@ tkinter
 
 1. Download or clone the project files:
    ```bash
-   git clone https://github.com/username/rubiks-cube-solver.git
-   cd rubiks-cube-solver
+   git clone https://github.com/yigitcanbltc/RubicCubeSolver
+   cd RubicCubeSolver
    ```
 
 2. Install the required dependencies:
